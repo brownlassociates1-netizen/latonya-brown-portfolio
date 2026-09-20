@@ -4,6 +4,8 @@
 
 The Love & Beauty by Dajahnay AI Marketing Pilot demonstrates how a service-based beauty business can use artificial intelligence, automation, and digital marketing tools to attract new clients, promote services, and maintain stronger customer relationships.
 
+**Live AI Marketing Pilot:** [Open the Love & Beauty Booking Assistant](https://love-beauty-booking-assistant.brownlassociates1.chatgpt.site)
+
 **Video demonstration:** [Watch the AI Marketing Pilot](https://youtu.be/pHB9LnhGz8o)
 
 ## The Business Problem
