@@ -4,7 +4,7 @@ Finance Systems Analyst, AI Builder, and Automation Specialist with 23+ years of
 
 ## Featured Projects
 
-### IMS by LUV
+### [IMS by LUV — View Full Project](projects/IMS-by-LUV.md)
 
 An AI-powered financial intelligence platform designed to help business owners understand their finances and make informed decisions.
 
