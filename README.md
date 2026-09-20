@@ -25,7 +25,7 @@ An AI-powered financial intelligence platform designed to help business owners u
 
 ---
 
-### Love & Beauty by Dajahnay — AI Marketing Pilot
+### [Love & Beauty by Dajahnay — View Full AI Marketing Pilot](projects/Love-Beauty-AI-Marketing-Pilot.md)
 
 An AI-powered marketing and client-growth system designed to help Love & Beauty by Dajahnay attract, engage, and retain more clients.
 
