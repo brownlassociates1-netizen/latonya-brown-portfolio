@@ -6,7 +6,7 @@ Mission Mash-Up is a family-friendly multiplayer party game designed for 2–8 p
 
 ## Game Preview
 
-![Mission Mash-Up multiplayer game](../Mission Mash-Up.png)
+![Mission Mash-Up multiplayer game](mission-mash-up.png) 
 
 ## Project Status: Working Prototype
 
