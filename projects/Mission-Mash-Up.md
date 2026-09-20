@@ -4,6 +4,10 @@
 
 Mission Mash-Up is a family-friendly multiplayer party game designed for 2–8 players. Participants join from their own devices using a room code and work together in teams to complete interactive missions.
 
+## Game Preview
+
+![Mission Mash-Up multiplayer game](../mission-mash-up.png)
+
 ## Project Status: Working Prototype
 
 The core gameplay concept, room structure, team format, scoring framework, and player experience have been designed. The prototype focuses on making it easy for new players to understand how to join and play.
