@@ -44,7 +44,7 @@ An AI-powered marketing and client-growth system designed to help Love & Beauty 
 
 ---
 
-### Salary and Earnings Dashboard
+### [Salary and Earnings Dashboard — View Project](projects/Salary-and-Earnings-Dashboard.md)
 
 A data dashboard designed to track project activity, working time, earnings, and expected payouts.
 
@@ -58,7 +58,7 @@ A data dashboard designed to track project activity, working time, earnings, and
 
 ---
 
-### Mission Mash-Up
+### [Mission Mash-Up — View Full Project](projects/Mission-Mash-Up.md)
 
 A family-friendly, real-time multiplayer party game for 2–8 players. Players join through a room code and work together in teams to complete interactive missions.
 
