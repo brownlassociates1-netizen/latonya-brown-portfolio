@@ -6,6 +6,10 @@ IMS by LUV is a financial intelligence and accounting-support platform developed
 
 **Live application:** [Visit IMS by LUV](https://ims-by-luv.net)
 
+## Dashboard Preview
+
+![IMS by LUV financial dashboard](../ims-dashboard.png)
+
 ## The Business Problem
 
 Many small-business owners can see revenue, expenses, and account balances but still struggle to answer essential questions:
