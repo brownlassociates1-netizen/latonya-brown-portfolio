@@ -71,6 +71,34 @@ A family-friendly, real-time multiplayer party game for 2–8 players. Players j
 * Family-friendly gameplay
 * Real-time game progression
 
+
+---
+
+### [AI & Data Careers Salary Dashboard – View Full Project](projects/AI-Data-Careers-Salary-Dashboard.md)
+
+An interactive data dashboard exploring how job role, experience, work arrangement, and company location relate to median salaries in AI and data careers.
+
+**Project highlights:**
+
+* Analyzed 140,006 salary records
+* Compared frequently reported AI and data roles
+* Examined salary differences by experience level
+* Presented findings through interactive data visualizations
+* Identified experience as a strong salary indicator
+
+---
+
+### [LaTonya Brown Professional Portfolio – View Full Project](projects/LaTonya-Portfolio-Site.md)
+
+A professional portfolio showcasing more than 23 years of accounting and finance experience combined with AI, automation, data analysis, and financial systems.
+
+**Professional focus:**
+
+* Financial systems and business analysis
+* AI-powered financial tools
+* Workflow and process automation
+* Accounting operations and reporting
+* Data analysis and visualization
 ---
 
 ### LUV Holdings AI & Automation Solutions
